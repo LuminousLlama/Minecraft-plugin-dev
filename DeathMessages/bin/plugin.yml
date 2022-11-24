@@ -1,0 +1,5 @@
+name: DeathMessages
+version: 1.0
+author: Luminous_Llama
+main: me.luminous_llama.deathmessages.Main
+description: sends custom message on player death

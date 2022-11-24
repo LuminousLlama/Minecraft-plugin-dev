@@ -1,0 +1,12 @@
+name: Quartermaster
+version: 1.0.0
+main: me.luminous_llama.quartermaster.QuartermasterMain
+api-version: 1.17
+author: Luminous_Llama
+description: Lock chest (this is placeholder)
+
+commands:
+  lock:
+    description: Lock a chest
+  list2:
+    description: lists locks

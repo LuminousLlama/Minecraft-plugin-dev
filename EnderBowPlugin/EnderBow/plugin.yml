@@ -1,0 +1,11 @@
+name: EnderBow
+main: me.luminousllama.EnderBowPlugin
+version: 0.0.1
+api-version: 1.18
+author: Luminous_Llama
+description: A bow that can shoot enderPearls! 
+
+commands:
+  enderbow:
+    description: base enderbow command 
+    aliases: eb

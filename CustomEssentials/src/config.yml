@@ -1,0 +1,14 @@
+#message sent to console
+console_error_message: '&ccannot execute this command!'
+
+#message sent to player without permission
+no_perm_message: '&cyou do not have permission to run this command!'
+#Fly command below
+
+FlyCommand:
+  fly_enabled: '&8[&a*&8]&7You have &aenabled &9fly&7!'
+  fly_disabled: '&8[&c*&8]&7You have &cdisabled &9fly&7!'
+  fly_target_disabled: '&8[&c*&8]&7You &ccannot &9fly &7Thanks to &6<player>&7!'
+  fly_target_enabled: '&8[&a*&8]&7You &acan &9fly &7Thanks to &6<player>&7!'
+  target_null: '&8[&c*&8]&7Player is offline or does not exsist'
+ 

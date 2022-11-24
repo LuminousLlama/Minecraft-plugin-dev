@@ -1,0 +1,7 @@
+name: First_Plugin
+version: 1.0
+author: Luminous_Llama
+main: me.Luminous_Llama.First_Plugin.Main
+
+commands:
+  hello:

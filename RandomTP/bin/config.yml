@@ -1,0 +1,12 @@
+#teleports from player
+teleport-form-player: true
+#how far away from player can it tp
+player-teleport-distance: 10
+
+
+#Teleport from specific point (if both true defualts to player)
+teleport-from-point: false
+#Point to teleport from (assigns value to x and z) 
+teleport-point: 0
+#max tp distance from point
+point-teleport-distance: 2000

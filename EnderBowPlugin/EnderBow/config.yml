@@ -1,0 +1,10 @@
+enderbow: 
+  usepearl: true 
+
+messages: 
+  noperm: '&4You do not have permission for that!'
+  invalidplayer: '&4That is not a valid player!'
+  onlyplayers: '&4YOnly players can enter that command!'
+  giveenderbow: '&2Gave enderbow to %PLAYER%!'
+  receivedenderbow: '&2 Received enderbow from %PLAYER%'
+  reload: '&2[Enderbow Config Reloaded]'

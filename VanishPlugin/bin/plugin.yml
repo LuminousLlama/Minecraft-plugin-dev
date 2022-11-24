@@ -1,0 +1,9 @@
+name: VanishPlugin
+author: Luminous_Llama
+main: me.luminous_llama.vanishplugin.Main
+version: 1.0.0
+description: vanishes players
+
+commands: 
+  vanish:
+    description: vanishes players

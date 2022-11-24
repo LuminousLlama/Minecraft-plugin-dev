@@ -1,0 +1,8 @@
+name: CustomEssentials
+author: Luminous_Llama
+version: 1.0.0
+main: me.luminous_llama.customessentials.Main
+description: custom essentials
+
+commands:
+  fly:

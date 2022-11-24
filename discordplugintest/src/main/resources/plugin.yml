@@ -1,0 +1,12 @@
+name: DiscordPluginTest
+version: 1.0.0
+main: me.luminous_llama.discordplugintest.Main
+api-version: 1.17
+author: Luminous_Llama
+description: idk
+
+commands:
+  hello:
+    description: send hi back
+  verify:
+    description: verify discord account

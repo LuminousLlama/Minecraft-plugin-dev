@@ -1,0 +1,5 @@
+name: MongoPlugin
+author: Luminous_Llama
+version: 1.0.0
+main: me.luminous_llama.mongoplugin.Main
+api-version: 1.17

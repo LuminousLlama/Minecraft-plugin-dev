@@ -1,0 +1,6 @@
+name: Listeners
+version: 1.0
+author: Luminous_Llama
+main: me.Luminous_Llama.Listeners.Main
+description: Sends join message when player joins server
+

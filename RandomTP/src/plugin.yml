@@ -1,0 +1,10 @@
+name: RandomTP
+author: Luminous_Llama
+version: 1.0.0
+main: me.luminous_llama.randomtp.Main
+description: teleports player to random location
+
+commands:
+  rtp:
+    description: teleports player to random player
+    usage: /<command>

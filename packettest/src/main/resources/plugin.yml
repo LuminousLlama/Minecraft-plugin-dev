@@ -1,0 +1,11 @@
+name: packettest
+version: 1.0.0
+main: me.luminous_llama.packettest.PacketMain
+api-version: 1.17
+author: luminous_llama
+
+depend: [ProtocolLib]
+
+commands:
+  boom:
+   description: boom

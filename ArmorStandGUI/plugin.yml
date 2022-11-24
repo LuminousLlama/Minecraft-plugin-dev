@@ -1,0 +1,11 @@
+name: ArmorStandGUI
+author: Luminous_Llama
+version: 1.0.0
+main: me.luminous_llama.armorstandgui.Main
+description: create armor stands
+
+
+commands:
+  armorstand:
+    description: Create armorstand
+    usage: /<command>
